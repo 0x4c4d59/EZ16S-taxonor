@@ -1,2 +1,6 @@
 /.venv/
 /.idea/
+/bashcode.md
+/main.spec
+/build
+/dist
