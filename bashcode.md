@@ -4,7 +4,7 @@ pip freeze > requirements.txt
 ```
 ```bash
 # 打包文件
-pyinstaller --onefile --windowed main.py
+pyinstaller --onefile --windowed test_final.py
 ```
 
 ```bash
