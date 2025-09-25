@@ -6,3 +6,9 @@ pip freeze > requirements.txt
 # 打包文件
 pyinstaller --onefile --windowed main.py
 ```
+
+```bash
+# 打包文件夹包含依赖项
+pyinstaller --windowed test_final.py
+```
+
